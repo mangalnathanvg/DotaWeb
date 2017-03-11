@@ -16,7 +16,7 @@ DotaWeb is a online guide for the most famous game on this planet (unless you ar
   npm install
   ```
   
- - Run the website using node
+  - Run the website using node
  ```sh
  node app.js
  ```
